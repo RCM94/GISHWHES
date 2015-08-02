@@ -20,7 +20,7 @@ namespace GISHWHES_Mascot
         {
             InitializeComponent();
             Assembly assembly = Assembly.GetExecutingAssembly();
-
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
             IDictionaryEnumerator resource = Resources.ResourceManager.GetResourceSet(new System.Globalization.CultureInfo("en"), false, true).GetEnumerator();
 
             while (resource.MoveNext())
@@ -48,7 +48,7 @@ namespace GISHWHES_Mascot
         }
 
 
-        public void Randomize()
+        private void Randomize()
         {
             Random random = new Random();
             LegBox.Image = Legs[random.Next(0, Legs.Count)];
@@ -66,15 +66,16 @@ namespace GISHWHES_Mascot
         private List<Bitmap> Legs = new List<Bitmap>();
         private List<Bitmap> Bodies = new List<Bitmap>();
         private List<Bitmap> Heads = new List<Bitmap>();
+        
+
+        private void RandomButton_click(object sender, EventArgs e)
+        {
+            Randomize();
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Randomize();
         }
     }
 }

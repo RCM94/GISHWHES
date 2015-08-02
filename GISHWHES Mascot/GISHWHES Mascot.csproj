@@ -90,10 +90,18 @@
     <None Include="Pics\Dog Head.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Pics\Logo.png" />
+    <None Include="Pics\Lion Body.png" />
+    <None Include="Pics\Lion Head.png" />
+    <None Include="Pics\Lion Legs.png" />
+    <None Include="Pics\Goat Body.png" />
+    <None Include="Pics\Goat Head.png" />
+    <None Include="Pics\Goat Legs.png" />
     <None Include="Pics\Bear Body.png" />
     <None Include="Pics\Bear Legs2.png" />
     <None Include="Pics\Bear Head.png" />
     <None Include="Pics\Bear Legs.png" />
+    <None Include="Pics\Dino Head.png" />
     <Content Include="Pics\Dog Legs.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
