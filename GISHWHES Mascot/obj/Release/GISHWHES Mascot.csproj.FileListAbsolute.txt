@@ -1,0 +1,9 @@
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\bin\Release\GISHWHES Mascot.exe.config
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\bin\Release\GISHWHES Mascot.exe
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\bin\Release\GISHWHES Mascot.pdb
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES Mascot.csprojResolveAssemblyReference.cache
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES_Mascot.Form1.resources
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES_Mascot.Properties.Resources.resources
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES Mascot.csproj.GenerateResource.Cache
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES Mascot.exe
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\GISHWHES Mascot\GISHWHES Mascot\obj\Release\GISHWHES Mascot.pdb
